@@ -1,44 +1,85 @@
 let handler = async m => m.reply(`
-*ヽ(✿ ͜ʖ✿)ﾉ Konichuwa, Watasi no namae Chitanda eru desu🌸*
+Konnichiwa! *${M.sender.username}*, *I'm Tobi!* I'm ready for help.
 
+My perfix - !
 
-🌼 *Here's Command Menu* 🌼
-🎗️ *you can go to Each Section With adding Section's number after help* 
+ *✇ _General Commands_ ✇* 
 
-*Ex :* #help 1
+◍ !owner
 
+◍ !support
 
+◍ !info
 
-💠 *HELP SECTION 1* 🌀
-*💫Section - General* 
-*Command :* help-1
-*Aliases :* help sticker
+◍ !profile
 
+◍ !speed
 
-💠 *HELP SECTION 2* 🌀
-*💫Section - Sticker* 
-*Command :* help-2
+◍ !listonline
 
-💠 *HELP SECTION 3* 🌀
-💫 *Section - Downloader* 
-*Command :* help-3
-*Aliases :* help media
+◍ !readmore
 
-💠 *HELP SECTION 4* 🌀
-💫 *Section - owner* 
-*Command :* help-4
-*Aliases :* help owner
+◍ !afk
 
+◍ !darkjokes
 
-💠 *HELP SECTION 5* 🌀
-💫 *Section - Admins* 
-*Command :* help-5
-*Aliases :* help admin
+◍ !brainly
 
-💠 *HELP SECTION 6* 🌀
-💫Section - info
-*Command :* help-6
-*Aliases :* help info
+◍ !google
+
+◍ !meme
+
+◍ !save
+
+ *✇ _Media Commands_ ✇* 
+
+◍ !sticker
+
+◍ !toimg
+
+◍ !play
+
+◍ !ytmp3
+
+◍ !ytmp4
+
+◍ !yts
+
+◍ !fb
+
+◍ !ig
+
+◍ !subreddit
+
+ *✇ _Admin Commands_ ✇* 
+
+◍ !add
+
+◍ !kick
+
+◍ !promote
+
+◍ !demote
+
+◍ !enable antilink
+
+◍ !tagall
+
+◍ !hidetag
+
+◍ !linkgroup
+
+ *✇ _Weeb Commands_ ✇* 
+
+◍ !waifu
+
+◍ !neko
+
+◍ !wallpaperanime
+
+Sooooo, My work is done. Bye! 
+
+Any problem? Remember me :)
 
 
 `.trim()) // Tambah sendiri kalo mau
