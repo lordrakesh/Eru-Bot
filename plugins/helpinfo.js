@@ -1,37 +1,7 @@
 let handler = async m => m.reply(`
-📪 *Info* 📪
-
-*Bot :* Eru chitanda
-
-_Note : This is customised bot_
-_Edited by : Redbee🐝❤_
-
-
-💫 *Command :* bannedlist
-*Usage :* Shows the list of banned user
-
-💫 *Command :* owner
-*Usage :* To see the owner
-*Alternative :* creator
-
-💫 *Command :* delete
-*Usage :* delete 
-*Alternative :* del
-
-💫 *Command :* donate
-*Usage :* Donate the creator
-
-💫 *Command :* groups
-*Usage :* To see the List of Groups 
-*Alternative :* grouplist
-
-💫 *Command :* bug 
-*Usage :* if you find any bug or untranslated words please let us know!
-*Alternative :* report
-
-💫 *Command :* ping
-*Usage :* to see Ping
-*Alternative :* speed
+𝐍𝐚𝐦𝐞- Tobi ✇ 
+    𝗢𝘄𝗻𝗲𝗿- Lord Rakesh
+ _[ wa.me/918473956301 ]_
 
 
 `.trim()) 
