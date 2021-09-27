@@ -1,4 +1,14 @@
-let handler = async m => m.reply('your message', m.sender)
+let handler = async m => m.reply('*JOIN TOBI'S SUPPORT GROUP ✨*
+
+• *1) Fᴏʟʟᴏᴡ Tʜᴇ Gʀᴏᴜᴘ Rᴜʟᴇs*
+
+• *2) Fᴏʟʟᴏᴡ Tʜᴇ Aᴅᴍɪɴs*
+
+• *3) Dᴏɴᴛ Mɪssʙᴇʜᴀᴠᴇ Wɪᴛʜ Aɴʏ Mᴇᴍʙᴇʀs*
+
+*🧣 Tittle: NoFaceWeebs*
+
+*✉ Invite:* https://chat.whatsapp.com/JSpzoZ2bwCa13318uGCaLe', m.sender)
 
 
 handler.help = ['help 1']
